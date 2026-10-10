@@ -1,20 +1,30 @@
-# Mariano Graniel
+# 🎮 Mariano · Ruta de ciberseguridad
 
-> Estudiante de TI y Negocios Digitales · Anáhuac Cancún · Ciberseguridad
+**Clase:** Estudiante de TI & Negocios Digitales
+**Especialidad:** Ciberseguridad ofensiva y defensiva
+**Ubicación:** Cancún, MX 🌴
 
-| 🔍 Área | 📊 Nivel | 🧠 Estado |
-|---|---|---|
-| Binarios y pwn | ██████░░░░ | Practicando |
-| Reverse engineering | ██████░░░░ | Practicando |
-| OSINT | ███████░░░ | Activo en CTF |
-| Web | ███████░░░ | Activo en CTF |
-| Ensamblador | █████░░░░░ | Aprendiendo |
-| Home-lab | ████████░░ | En construcción |
+## 🌳 Árbol de habilidades
 
-### 📈 Actividad reciente
-- 🏁 Participación en CTF · [CTFtime](https://ctftime.org/team/TU_ID)
-- 📝 Write-ups en [ctf-writeups](https://github.com/mariano-it/ctf-writeups)
-- 🖥️ Documentación del home-lab *(próximamente)*
+```
+[ Fundamentos de TI ]
+        │
+        ├── 🧱 Redes ............................ ✅ Nivel 3
+        ├── 🐧 Linux ............................ ✅ Nivel 3
+        └── 🐍 Python ........................... ✅ Nivel 2
+                │
+                ├── 💣 Pwn ...................... 🔓 Desbloqueado
+                ├── 🔬 Reverse engineering ...... 🔓 Desbloqueado
+                ├── 🕵️ OSINT ................... 🔓 Desbloqueado
+                └── 🌐 Web ...................... 🔓 Desbloqueado
+                        │
+                        └── 🏆 Campeón CTF ...... 🔒 En progreso
+```
+
+## 🏅 Logros
+- 🚩 Flags capturadas en CTF (pwn, reversing, OSINT, web, ensamblador)
+- 🧪 Home-lab casero operativo
+- 🌐 Participación en [CTFtime](https://ctftime.org/team/TU_ID)
 
 ---
-📫 [LinkedIn](https://linkedin.com/in/TU_USUARIO) · ✉️ [Email](mailto:TU_CORREO)
+**Contacto:** [LinkedIn](https://linkedin.com/in/TU_USUARIO) · [Email](mailto:TU_CORREO)
