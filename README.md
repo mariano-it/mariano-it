@@ -1,21 +1,20 @@
-<div align="center">
+# Mariano Graniel
 
-```bash
-mariano@cancun:~$ whoami
-Mariano Graniel · TI & Negocios Digitales @ Anáhuac Cancún
+> Estudiante de TI y Negocios Digitales · Anáhuac Cancún · Ciberseguridad
 
-mariano@cancun:~$ cat intereses.txt
-ciberseguridad ofensiva · reverse engineering · pwn · OSINT
+| 🔍 Área | 📊 Nivel | 🧠 Estado |
+|---|---|---|
+| Binarios y pwn | ██████░░░░ | Practicando |
+| Reverse engineering | ██████░░░░ | Practicando |
+| OSINT | ███████░░░ | Activo en CTF |
+| Web | ███████░░░ | Activo en CTF |
+| Ensamblador | █████░░░░░ | Aprendiendo |
+| Home-lab | ████████░░ | En construcción |
 
-mariano@cancun:~$ ls ./home-lab
-redes/  vulnerables/  automatizacion/  monitoreo/
+### 📈 Actividad reciente
+- 🏁 Participación en CTF · [CTFtime](https://ctftime.org/team/TU_ID)
+- 📝 Write-ups en [ctf-writeups](https://github.com/mariano-it/ctf-writeups)
+- 🖥️ Documentación del home-lab *(próximamente)*
 
-mariano@cancun:~$ _
-```
-
-![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ghidra](https://img.shields.io/badge/Ghidra-EE0000?style=for-the-badge)
-
-</div>
+---
+📫 [LinkedIn](https://linkedin.com/in/TU_USUARIO) · ✉️ [Email](mailto:TU_CORREO)
