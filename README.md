@@ -26,9 +26,6 @@
 - 🧪 Home-lab casero operativo
 - 🌐 Participación en [CTFtime](https://ctftime.org/team/TU_ID)
 
----
-**Contacto:** [LinkedIn](https://linkedin.com/in/TU_USUARIO) · [Email](mailto:TU_CORREO)
-
 <div align="center">
 
 ![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
@@ -37,3 +34,6 @@
 ![Ghidra](https://img.shields.io/badge/Ghidra-EE0000?style=for-the-badge)
 
 </div>
+
+---
+**Contacto:** [LinkedIn](https://linkedin.com/in/TU_USUARIO) · [Email](mailto:TU_CORREO)
