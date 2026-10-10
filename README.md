@@ -10,8 +10,8 @@
 [ Fundamentos de TI ]
         │
         ├── 🧱 Redes ............................ ✅ Nivel 3
-        ├── 🐧 Linux ............................ ✅ Nivel 3
-        └── 🐍 Python ........................... ✅ Nivel 2
+        ├── 🐧 Linux ............................ ✅ Nivel 2
+        └── 🐍 Python ........................... ✅ Nivel 1
                 │
                 ├── 💣 Pwn ...................... 🔓 Desbloqueado
                 ├── 🔬 Reverse engineering ...... 🔓 Desbloqueado
