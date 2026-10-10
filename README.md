@@ -1,25 +1,21 @@
-# mariano-it
+<div align="center">
 
-```text
-            .-------.
-         .-'         '-.        mariano-it@github
-        /   .-.   .-.   \       ---------------------------------
-       |   (   ) (   )   |      Nombre     : Mariano [Graniel]
-       |    '-'   '-'    |      Carrera    : Ing. TI y Negocios Digitales
-       |   .-----------. |      Universidad: Anáhuac Cancún
-        \  |  >_       | /      Enfoque    : Ciberseguridad
-        '-.|___________|.-'     Shell      : Python, Bash
-           '-.       .-'        Editor     : VS Code
-              '-----'           Host       : Home-lab casero
-                                Herramientas: Ghidra, GDB, pwntools,
-                                              Burp Suite, Nmap, Docker
-                                CTF      : pwn, reversing, OSINT,
-                                           web, ensamblador
-                                CTFtime  : [tu equipo]
-                                Uptime   : estudiante en curso
-                                Ubicación: Cancún, México
+```bash
+mariano@cancun:~$ whoami
+Mariano Graniel · TI & Negocios Digitales @ Anáhuac Cancún
 
-                                ███ ███ ███ ███ ███ ███ ███ ███
+mariano@cancun:~$ cat intereses.txt
+ciberseguridad ofensiva · reverse engineering · pwn · OSINT
+
+mariano@cancun:~$ ls ./home-lab
+redes/  vulnerables/  automatizacion/  monitoreo/
+
+mariano@cancun:~$ _
 ```
 
-**Write-ups:** [ctf-writeups](https://github.com/mariano-it/ctf-writeups) · **Contacto:** [LinkedIn](https://linkedin.com/in/TU_USUARIO) · [Email](mailto:TU_CORREO)
+![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ghidra](https://img.shields.io/badge/Ghidra-EE0000?style=for-the-badge)
+
+</div>
