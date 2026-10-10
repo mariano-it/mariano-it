@@ -8,9 +8,9 @@
        |    '-'   '-'    |      Carrera    : Ing. TI y Negocios Digitales
        |   .-----------. |      Universidad: Anáhuac Cancún
         \  |  >_       | /      Enfoque    : Ciberseguridad
-         '-.|___________|.-'    Shell      : Python, Bash
-            '-.       .-'       Editor     : VS Code
-               '-----'          Host       : Home-lab casero
+        '-.|___________|.-'     Shell      : Python, Bash
+           '-.       .-'        Editor     : VS Code
+              '-----'           Host       : Home-lab casero
                                 Herramientas: Ghidra, GDB, pwntools,
                                               Burp Suite, Nmap, Docker
                                 CTF      : pwn, reversing, OSINT,
