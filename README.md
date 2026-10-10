@@ -1,10 +1,10 @@
-# 🎮 Mariano · Ruta de ciberseguridad
+# Mariano · Cybersegurity
 
 **Clase:** Estudiante de TI & Negocios Digitales
-**Especialidad:** Ciberseguridad ofensiva y defensiva
-**Ubicación:** Cancún, MX 🌴
+**Especialidad:** Ciberseguridad ofensiva y defensiva 💻
+**Ubicación:** Cancún, MX 👾
 
-## 🌳 Árbol de habilidades
+##  Árbol de habilidades
 
 ```
 [ Fundamentos de TI ]
@@ -16,14 +16,15 @@
                 ├── 💣 Pwn ...................... 🔓 Desbloqueado
                 ├── 🔬 Reverse engineering ...... 🔓 Desbloqueado
                 ├── 🕵️ OSINT ................... 🔓 Desbloqueado
-                └── 🌐 Web ...................... 🔓 Desbloqueado
+                ├── 🌐 Web ...................... 🔓 Desbloqueado
+                └── 🐱‍💻 Ethical Hacker.............🔓 Desbloqueado
                         │
                         └── 🏆 Campeón CTF ...... 🔒 En progreso
 ```
 
-## 🏅 Logros
-- 🚩 Flags capturadas en CTF (pwn, reversing, OSINT, web, ensamblador)
-- 🧪 Home-lab casero operativo
+##  Logros
+- 🚩 CTF (pwn, reversing, OSINT, web, ensamblador)
+- 🧪 Home-lab operativo
 - 🌐 Participación en [CTFtime](https://ctftime.org/team/TU_ID)
 
 <div align="center">
