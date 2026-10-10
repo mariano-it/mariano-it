@@ -28,3 +28,12 @@
 
 ---
 **Contacto:** [LinkedIn](https://linkedin.com/in/TU_USUARIO) · [Email](mailto:TU_CORREO)
+
+<div align="center">
+
+![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ghidra](https://img.shields.io/badge/Ghidra-EE0000?style=for-the-badge)
+
+</div>
