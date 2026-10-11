@@ -25,7 +25,7 @@
 ##  Logros
 - 🚩 CTF (pwn, reversing, OSINT, web, ensamblador)
 - 🧪 Home-lab operativo
-- 🌐 Participación en [CTFtime](https://ctftime.org/team/TU_ID)
+- 🌐 Participación en [CTFtime](https://ctftime.org/team/447434)
 
 <div align="center">
 
@@ -37,4 +37,4 @@
 </div>
 
 ---
-**Contacto:** [LinkedIn](https://linkedin.com/in/TU_USUARIO) · [Email](mailto:TU_CORREO)
+**Contacto:** [LinkedIn](https://linkedin.com/in/TU_USUARIO) · [Email](mailto:marianoantonioasg@gmail.com)
